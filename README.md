@@ -30,3 +30,13 @@ are there any seasonal treads or patterns in the sales data?
 how does the number of units sold vary across different countries? 
 
 
+![image](https://github.com/user-attachments/assets/1ab8621b-f312-493f-ab99-e99b7c1b8d43)
+
+![image](https://github.com/user-attachments/assets/410e8134-ea70-4529-99df-0b489a0bdf78)
+
+![image](https://github.com/user-attachments/assets/3ba23f90-a9d5-4ec4-a45b-76d65126a43b)
+
+
+
+
+
